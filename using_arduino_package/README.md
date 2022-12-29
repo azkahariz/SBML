@@ -1,4 +1,4 @@
-# _Sample project_
+# Connect Streaming Radio with ESP32 + Arduino component package
 
 (See the README.md file in the upper level 'examples' directory for more information about examples.)
 
