@@ -44,4 +44,4 @@ The image below illustrates the 3D design view of the circuit board, featuring t
 <img src="https://raw.githubusercontent.com/azkahariz/SBML/main/images/gambar3.png" width="350" alt="Gambar 3"> <img src="https://raw.githubusercontent.com/azkahariz/SBML/main/images/gambar4.png" width="350" alt="Gambar 4">
 
 
-Schematics and 3D design can be seen in the [**KiCAD_file**](https://github.com/azkahariz/SBML/tree/main/kicad_file) folder. This folder contains the circuit boards, components, and 3D models for the project.
+Schematics and 3D design can be seen in the [**KiCAD_file**](https://github.com/azkahariz/SBML/tree/main/KiCAD_file) folder. This folder contains the circuit boards, components, and 3D models for the project.
