@@ -23,11 +23,11 @@ Below is short explanation of remaining files in the project folder.
 
 ```
 ├── components
-    ├── aac_decoder
-    ├── arduino
-    ├── Audio
-    ├── flac_decoder
-    └── mp3_decoder
+│   ├── aac_decoder
+│   ├── arduino
+│   ├── Audio
+│   ├── flac_decoder
+│   └── mp3_decoder
 ├── CMakeLists.txt
 ├── Makefile
 ├── main
