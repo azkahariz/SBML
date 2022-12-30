@@ -22,7 +22,14 @@ files that provide set of directives and instructions describing the project's s
 Below is short explanation of remaining files in the project folder.
 
 ```
+├── components
+    ├── aac_decoder
+    ├── arduino
+    ├── Audio
+    ├── flac_decoder
+    └── mp3_decoder
 ├── CMakeLists.txt
+├── Makefile
 ├── main
 │   ├── CMakeLists.txt
 │   └── main.c
