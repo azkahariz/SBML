@@ -11,7 +11,7 @@
 
 This project aims to create an ESP-IDF Audio Player using Internet Radio. The main project is located in the [**using_arduino_package**](/tree/main/using_arduino_package) folder, which adds the Arduino package to the ESP-IDF component, allowing coding with the Arduino approach.
 
-Currently, I am in the process of constructing a web radio using ESP-IDF not incorporating ESP-ADF. The procedure is laid out as follows:
+Currently, I am **in the process** of constructing a web radio using ESP-IDF not incorporating ESP-ADF. The procedure is laid out as follows:
 
 1. Construct a client-to-server relationship (access point/router)
 2. Putting together the I2S interface
@@ -48,5 +48,6 @@ The image below illustrates the 3D design view of the circuit board, featuring t
 Schematics and 3D design can be seen in the [**KiCAD_file**](https://github.com/azkahariz/SBML/tree/main/KiCAD_file) folder. This folder contains the circuit boards, components, and 3D models for the project.
 
 # Demo Project
+You can see this demo project in this YouTube [link](https://youtu.be/mOV-Ywjk-ak).
 
-<iframe width="347" height="618" src="https://www.youtube.com/embed/mOV-Ywjk-ak" title="ESP-IDF Audio Player using Internet Radio [demo]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/mOV-Ywjk-ak/0.jpg)](https://www.youtube.com/embed/mOV-Ywjk-ak)
