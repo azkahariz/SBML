@@ -5,6 +5,7 @@
 2. [Schematic and 3D Design](#schematic-and-3d-design)
     1. [Schematic](#schematic)
     2. [3D Design](#3d-design)
+3. [Demo Project](#demo-project)
 
 
 
@@ -46,12 +47,5 @@ The image below illustrates the 3D design view of the circuit board, featuring t
 
 Schematics and 3D design can be seen in the [**KiCAD_file**](https://github.com/azkahariz/SBML/tree/main/KiCAD_file) folder. This folder contains the circuit boards, components, and 3D models for the project.
 
-<iframe
-    width="640"
-    height="480"
-    src="https://youtube.com/shorts/mOV-Ywjk-ak"
-    frameborder="0"
-    allow="autoplay; encrypted-media"
-    allowfullscreen
-    >
-</iframe>
+# Demo Project
+<iframe width="347" height="618" src="https://www.youtube.com/embed/mOV-Ywjk-ak" title="ESP-IDF Audio Player using Internet Radio [demo]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
