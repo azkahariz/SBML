@@ -39,6 +39,6 @@ The schematic design can be used to create a circuit board, as illustrated in th
 
 The image below illustrates the 3D design view of the circuit board, featuring the front view, side view, and top view.
 
-<img src="https://raw.githubusercontent.com/azkahariz/SBML/main/images/gambar1.png" width="200" height="150" alt="Gambar 1"> <img src="https://raw.githubusercontent.com/azkahariz/SBML/main/images/gambar2.png" width="200" height="150" alt="Gambar 2">
+<img src="https://raw.githubusercontent.com/azkahariz/SBML/main/images/gambar1.png" width="350" alt="Gambar 1"> <img src="https://raw.githubusercontent.com/azkahariz/SBML/main/images/gambar2.png" width="350" alt="Gambar 2">
 
-<img src="https://raw.githubusercontent.com/azkahariz/SBML/main/images/gambar3.png" width="200" height="150" alt="Gambar 3"> <img src="https://raw.githubusercontent.com/azkahariz/SBML/main/images/gambar4.png" width="200" height="150" alt="Gambar 4">
+<img src="https://raw.githubusercontent.com/azkahariz/SBML/main/images/gambar3.png" width="350" alt="Gambar 3"> <img src="https://raw.githubusercontent.com/azkahariz/SBML/main/images/gambar4.png" width="350" alt="Gambar 4">
